@@ -1,6 +1,6 @@
 # AI & Data Science Basic Course 👨‍💻
 ### Data Engineer를 준비하고 있습니다.
-`주언어는 파이썬입니다.` `CS에 관심이 있습니다.` `알고리즘과 운영체제를 공부하고 있습니다`
+`비전공자입니다.` `주언어는 파이썬입니다.` `알고리즘과 운영체제를 공부하고 있습니다`
     
 <details>
     <summary>This Repository</summary>
