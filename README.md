@@ -10,7 +10,7 @@
 - [x] `AI · Data Science 첫 입문과정`
 - [x] `2021년 6월 24일 ~ 12월 15일`
 - [x] `기본 개념 및 프로젝트 기록✍`
-- [x] [`더 자세한 내용은?`](https://aiffel.io/)
+- [x] [`더 자세한 내용은?`](https://aiffel.io/why_aiffel/)
         
 </details>
     
@@ -21,8 +21,10 @@
 1. [Fundamental Stage](#fundamental-stage)
 
 2. [Exploration Stage](#exploration-stage)
+        
+3. [Going-deeper Stage](#going-deeper-stage)
      
-3. [Flipped School](#flipped-school)
+4. [Flipped School](#flipped-school)
 
 </details>
 
