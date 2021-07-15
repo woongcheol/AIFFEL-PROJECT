@@ -1,1 +1,71 @@
-# AIFFEL-PROJECT
+# AI & Data Science Basic Course 👨‍💻
+### Data Engineer를 준비하고 있습니다.
+`주언어는 파이썬입니다.` `CS에 관심이 있습니다.` `알고리즘과 운영체제를 공부하고 있습니다`
+    
+<details>
+    <summary>This Repository</summary>
+    <div markdown="1">
+    
+##### ✔ 모두의연구소 AIFFEL
+- [x] `AI · Data Science 첫 입문과정`
+- [x] `2021년 6월 24일 ~ 12월 15일`
+- [x] `기본 개념 및 프로젝트 기록✍`
+- [x] [`더 자세한 내용은?`](https://aiffel.io/)
+        
+</details>
+    
+<details>
+    <summary>Chapter</summary>
+    <div markdown="1">
+    
+1. [Fundamental Stage](#fundamental-stage)
+
+2. [Exploration Stage](#exploration-stage)
+     
+3. [Flipped School](#flipped-school)
+
+</details>
+
+
+    
+## Fundamental Stage
+|**Node**|**Practice**|
+|:----------:|:----------:|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+## Exploration Stage
+|**Node**|**Practice**|**Project**|
+|:----------:|:----------:|:----------:|
+|Image Classifier|[MNIST 손글씨]|[가위바위보 분류기]|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+## Flipped School
+|**Node**|**Practice**|
+|:----------:|:----------:|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
