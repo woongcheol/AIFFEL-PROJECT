@@ -1,5 +1,5 @@
 # AI & Data Science Basic Course 👨‍💻
-### Data Engineer를 준비하고 있습니다.
+## Data Engineer를 준비하고 있습니다.
 `주언어는 파이썬입니다.` `AIFFEL과 함께 머신러닝과 딥러닝을 구현하고 있습니다.` `개발자가 되기위해 컴퓨터 공학을 배우고 있습니다.`
     
 <details>
