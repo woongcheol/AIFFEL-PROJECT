@@ -19,7 +19,7 @@
     <div markdown="1">
     
 1. [Fundamental Stage](#fundamental-stage)
-
+    - [Fundamental Stage](#fundamental-stage)
 2. [Exploration Stage](#exploration-stage)
         
 3. [Going-deeper Stage](#going-deeper-stage)
