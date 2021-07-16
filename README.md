@@ -18,19 +18,17 @@
     <summary>Chapter</summary>
     <div markdown="1">
     
-1. [Fundamental Stage](#fundamental-stage)
-    - [Fundamental Stage](#fundamental-stage)
-2. [Exploration Stage](#exploration-stage)
+1. [EXPLORE](#explore)<br/>1-1. [Fundamental Stage](#fundamental-stage)<br/>1-2. [Exploration Stage](#exploration-stage)
         
-3. [Going-deeper Stage](#going-deeper-stage)
+2. [VOYAGE](#voyage)<br/> 2-1. [Going-deeper Stage](#going-deeper-stage)
+        
+3. [MINI-PROJECT](#mini-project)<br/> 3-1. [Flipped School](#flipped-school)
      
-4. [Flipped School](#flipped-school)
-
 </details>
 
 
-    
-## Fundamental Stage
+## EXPLORE    
+### Fundamental Stage
 |**Node**|**Practice**|
 |:----------:|:----------:|
 ||||
@@ -44,7 +42,7 @@
 ||||
 ||||
 
-## Exploration Stage
+### Exploration Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
 |Image Classifier|[MNIST 손글씨]|[가위바위보 분류기]|
@@ -57,8 +55,9 @@
 ||||
 ||||
 ||||
-    
-## Going-deeper Stage
+
+## VOYAGE 
+### Going-deeper Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
 ||||
@@ -72,7 +71,8 @@
 ||||
 ||||
 
-## Flipped School
+## MINI-PROJECT
+### Flipped School
 |**Node**|**Practice**|
 |:----------:|:----------:|
 ||||
