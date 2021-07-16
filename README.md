@@ -47,7 +47,7 @@
 ### Exploration Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
-|Image Classifier|[MNIST 손글씨]|[가위바위보 분류기]|
+|Image Classifier|[MNIST 손글씨](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_practice.ipynb)|[가위바위보 판별](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_rock_scissor_paper.ipynb)|
 |Classifier|[붓꽃 품종 분류](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_practice.ipynb)|[손글씨 판독](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_digits.ipynb) / [와인 분별](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_wine.ipynb) / [유방암 진단](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_breast_cancer.ipynb)|
 ||||
 ||||
