@@ -42,7 +42,7 @@
 |||
 |||
 |||
-|Pillow, OpenCV|[이동](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F12_Pillow_OpenCV.ipynb)|
+|Pillow, OpenCV|[연결](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F12_Pillow_OpenCV.ipynb)|
 
 ### Exploration Stage
 |**Node**|**Practice**|**Project**|
