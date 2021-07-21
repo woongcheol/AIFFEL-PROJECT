@@ -79,9 +79,10 @@
 
 ## MINI-PROJECT
 ### Flipped School
+[`파이썬 코딩의 기술`](https://github.com/bslatkin/effectivepython) [`밑바닥부터 시작하는 딥러닝`](https://github.com/WegraLee/deep-learning-from-scratch) [`CS231n`](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 |**Node**|**Practice**|
 |:----------:|:----------:|
-||||
+|||
 ||||
 ||||
 ||||
