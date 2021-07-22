@@ -44,6 +44,8 @@
 |||
 |Pillow, OpenCV|[이미지 특성 추출](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F12_Pillow_OpenCV.ipynb)|
 |Object Oriented Programming|[n면체 주사위 위젯](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F13/F13_Python_OOP.ipynb)|
+|Neural Network|이론 학습|
+|Numpy and Neural Network|[딥러닝 구현하기](https://github.com/woongcheol/AIFFEL-PROJECT/tree/main/AIFFEL-EXPLORE/fundamental/F15)|
 
 
 ### Exploration Stage
@@ -77,9 +79,10 @@
 
 ## MINI-PROJECT
 ### Flipped School
+[`파이썬 코딩의 기술`](https://github.com/bslatkin/effectivepython) [`밑바닥부터 시작하는 딥러닝`](https://github.com/WegraLee/deep-learning-from-scratch) [`CS231n`](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 |**Node**|**Practice**|
 |:----------:|:----------:|
-||||
+|||
 ||||
 ||||
 ||||
