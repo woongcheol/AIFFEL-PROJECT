@@ -45,7 +45,8 @@
 |Pillow, OpenCV|[이미지 특성 추출](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F12_Pillow_OpenCV.ipynb)|
 |Object Oriented Programming|[n면체 주사위 위젯](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F13/F13_Python_OOP.ipynb)|
 |Neural Network|이론 학습|
-|Numpy and Neural Network|[딥러닝 구현하기](https://github.com/woongcheol/AIFFEL-PROJECT/tree/main/AIFFEL-EXPLORE/fundamental/F15)|
+|Numpy and Neural Network|[딥러닝 구현](https://github.com/woongcheol/AIFFEL-PROJECT/tree/main/AIFFEL-EXPLORE/fundamental/F15)|
+|Regression Analysis|[회귀 분석 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/tree/main/AIFFEL-EXPLORE/fundamental/F16)|
 
 
 ### Exploration Stage
