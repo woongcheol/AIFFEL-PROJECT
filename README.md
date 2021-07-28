@@ -58,7 +58,7 @@
 |Classifier|[붓꽃 품종 분류](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_practice.ipynb)|[손글씨 판독](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_digits.ipynb) / [와인 분별](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_wine.ipynb) / [유방암 진단](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E2/E2_classifier_breast_cancer.ipynb)|
 |Face detection, landmark|[카메라 스티커 앱](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E3/E3_practice.ipynb) |[스티커 앱 제작](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E3/E3_face_detection_landmark.ipynb)|
 |Text Generation using RNN|[텍스트 생성](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E4/E4_practice.ipynb)|[작사가 만들기](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E4/E4_text_generation_using.ipynb)|
-||||
+|Face Embedding|[얼굴인식기능 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_practice.ipynb)|[닮은꼴 찾기](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_computer_vision_embedding.ipynb)|
 ||||
 ||||
 ||||
