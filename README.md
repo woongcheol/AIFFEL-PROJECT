@@ -51,7 +51,6 @@
 |Tensorflow|[텐서플로우 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F18/F18_%20TF2_API.ipynb)|
 
 
-
 ### Exploration Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
@@ -60,7 +59,7 @@
 |Face detection, landmark|[카메라 스티커 앱](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E3/E3_practice.ipynb) |[스티커 앱 제작](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E3/E3_face_detection_landmark.ipynb)|
 |Text Generation using RNN|[텍스트 생성](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E4/E4_practice.ipynb)|[작사가 만들기](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E4/E4_text_generation_using.ipynb)|
 |Face Embedding|[얼굴인식기능 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_practice.ipynb)|[닮은꼴 찾기](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_computer_vision_embedding.ipynb)|
-||||
+|Kaggle|[정형 데이터 분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E6/E6_practice.ipynb)|[집값 데이터 분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E6/E6_Kaggle_project.ipynb)|
 ||||
 ||||
 ||||
