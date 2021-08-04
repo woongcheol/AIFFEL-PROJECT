@@ -49,7 +49,7 @@
 |Regression Analysis|[회귀 분석 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F16/F16_Regression_Analysis.ipynb)|
 |Unsupervised Learning|[비지도 학습 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F17/F17_Unsupervised_Learning.ipynb)|
 |Tensorflow|[텐서플로우 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F18/F18_%20TF2_API.ipynb)|
-
+|Convolutional Neural Network|[VGG-16, ResNet-50 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F19/F19_Deep_Learning.ipynb)|
 
 ### Exploration Stage
 |**Node**|**Practice**|**Project**|
