@@ -50,8 +50,10 @@
 |Unsupervised Learning|[비지도 학습 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F17/F17_Unsupervised_Learning.ipynb)|
 |Tensorflow|[텐서플로우 모델 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F18/F18_%20TF2_API.ipynb)|
 |Convolutional Neural Network|[VGG-16, ResNet-50 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F19/F19_Deep_Learning.ipynb)|
+|Linear, Convolution Layer|이론 학습| 
+|DeepLearning Layer|[Embedding, RNN 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F21/F21_Enbedding_Recurrent.ipynb)|
 
-### Exploration Stage
+    ### Exploration Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
 |Image Classifier|[MNIST 손글씨](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_practice.ipynb)|[가위바위보 판별](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_rock_scissor_paper.ipynb)|
