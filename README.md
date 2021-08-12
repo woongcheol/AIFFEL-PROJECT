@@ -53,7 +53,7 @@
 |Linear, Convolution Layer|이론 학습| 
 |DeepLearning Layer|[Embedding, RNN 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/fundamental/F21/F21_Enbedding_Recurrent.ipynb)|
 
-    ### Exploration Stage
+### Exploration Stage
 |**Node**|**Practice**|**Project**|
 |:----------:|:----------:|:----------:|
 |Image Classifier|[MNIST 손글씨](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_practice.ipynb)|[가위바위보 판별](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E1/E1_rock_scissor_paper.ipynb)|
