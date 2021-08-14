@@ -63,7 +63,7 @@
 |Face Embedding|[얼굴인식기능 구현](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_practice.ipynb)|[닮은꼴 찾기](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E5/E5_computer_vision_embedding.ipynb)|
 |Kaggle|[정형 데이터 분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E6/E6_practice.ipynb)|[집값 데이터 분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E6/E6_Kaggle_project.ipynb)|
 |Sentimental Analysis|[IMDb 영화리뷰 감성분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E7/E7_Practice.ipynb)|[네이버 영화리뷰 감성분석](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E7/E7_Sentimental_Analysis.ipynb)|
-||||
+|Image Segmentation|[인물형태 추출](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E8/E8_Practice.ipynb)|[영화 캐릭터 추출](https://github.com/woongcheol/AIFFEL-PROJECT/blob/main/AIFFEL-EXPLORE/exploration/E8/E8_Image_Segmentation.ipynb)|
 ||||
 ||||
 
